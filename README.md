@@ -2,7 +2,10 @@
 
 a Brazilian e-commerce platform. Each dashboard visualizes data about customer interactions, sales predictions, and geolocation. I'll provide an explanation for each of the dashboards:
 
-
+![Overview Dashboard](images/customer.jpg)
+![Customer Dashboard](images/distance.jpg)
+![Prediciton Dashboard](images/Overview.jpg)
+![Distance Dashboard](images/predioction.jpg)
 
 1. Overview Dashboard:
 Top Metrics: This section provides high-level KPIs:
